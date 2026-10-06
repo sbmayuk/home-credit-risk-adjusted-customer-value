@@ -1,0 +1,24 @@
+version: 2
+
+sources:
+  - name: homecredit_raw
+    database: home-credit-analytics-saadet
+    schema: homecredit_raw
+
+    tables:
+      - name: application_train
+
+      - name: application_test
+
+      - name: bureau
+
+      - name: bureau_balance
+
+      - name: previous_application
+
+      - name: installments_payments
+
+      - name: credit_card_balance
+
+      - name: pos_cash_balance
+        identifier: POS_CASH_balance
