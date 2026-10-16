@@ -26,3 +26,26 @@ Home Credit Default Risk — Kaggle
 
 ## Project Status
 Capstone project — Final analysis and documentation in progress.
+
+## Power BI Dashboard Gallery
+
+### 1. Project Overview
+![Project Cover](HomeCredit_Gorseller/01-project-cover.png)
+
+### 2. Customer Analysis
+![Customer Analysis](HomeCredit_Gorseller/02-customer-analysis.png)
+
+### 3. Credit Risk Analysis
+![Credit Risk](HomeCredit_Gorseller/03-credit-risk.png)
+
+### 4. Previous Loan Applications
+![Loan History](HomeCredit_Gorseller/04-loan-history.png)
+
+### 5. K-Means Customer Segmentation
+![Customer Segmentation](HomeCredit_Gorseller/05-customer-segmentation-K-Mean.png)
+
+### 6. Machine Learning Results
+![Machine Learning](HomeCredit_Gorseller/06-machine-learning.png)
+
+### 7. Strategic Summary
+![Strategic Summary](HomeCredit_Gorseller/07-strategic-summary.png)
